@@ -1,4 +1,4 @@
-# master-thesis
+# Master-Thesis
 Code for the model used in the master’s thesis
 This project bridges exposure-based and behavior-based approaches in transit advertising analysis.
 # Metro Advertisement Visibility Analysis
